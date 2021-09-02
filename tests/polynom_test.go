@@ -1,4 +1,4 @@
-package polynom
+package poly
 
 import (
 	"fmt"
